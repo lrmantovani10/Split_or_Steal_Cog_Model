@@ -2,7 +2,7 @@ import random
 from fastai.vision.all import *
 
 # Image path
-filepath = 'Ana.png'
+filepath = 'image.png'
 
 # Download these files from https://huggingface.co/spaces/schibsted/facial_expression_classifier
 
